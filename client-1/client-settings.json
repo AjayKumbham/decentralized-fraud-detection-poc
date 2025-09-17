@@ -1,0 +1,10 @@
+{
+  "clientName": "Test Client 1",
+  "apiPort": 4001,
+  "modelType": "random_forest",
+  "dataRetention": 60,
+  "autoSync": true,
+  "enableLogging": true,
+  "maxTrainingTime": 600,
+  "confidenceThreshold": 0.6
+}
