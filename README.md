@@ -260,5 +260,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web technologies for robust fraud detection
 - Implements federated learning principles for data privacy
 - Uses ensemble methods for improved prediction accuracy
-#   d e c e n t r a l i z e d - f r a u d - d e t e c t i o n - p o c  
- 
